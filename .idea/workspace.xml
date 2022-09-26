@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24b8504b-1b0a-4084-9172-eb794e45f3ab" name="Changes" comment="add ebook" />
+    <list default="true" id="24b8504b-1b0a-4084-9172-eb794e45f3ab" name="Changes" comment="add ebook">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CadastroDeLivros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CadastroDeLivros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RegrasDeDesconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegrasDeDesconto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Livraria---Back" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,7 +42,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/silva/IdeaProjects/Casa Do Codigo"
+    "last_opened_file_path": "C:/Users/silva/IdeaProjects/Casa Do Codigo/Livraria---Back",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -45,7 +51,7 @@
       <recent name="C:\Users\silva\IdeaProjects\Casa Do Codigo\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RegistroDeVendas">
+  <component name="RunManager" selected="Application.RegrasDeDesconto">
     <configuration name="CadastroDeLivros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CadastroDeLivros" />
       <module name="Casa Do Codigo" />
@@ -69,8 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RegistroDeVendas" />
         <item itemvalue="Application.RegrasDeDesconto" />
+        <item itemvalue="Application.RegistroDeVendas" />
         <item itemvalue="Application.CadastroDeLivros" />
       </list>
     </recent_temporary>

@@ -1,4 +1,4 @@
-public class Livro {
+public abstract class Livro {
     //Definindo valores que o livro deve ter
     private String nome;
     private String descricao;

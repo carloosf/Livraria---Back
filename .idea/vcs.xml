@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Livraria" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Livraria---Back" vcs="Git" />
   </component>
 </project>

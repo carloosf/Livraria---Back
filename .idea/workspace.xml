@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24b8504b-1b0a-4084-9172-eb794e45f3ab" name="Changes" comment="add ebook">
-      <change afterPath="$PROJECT_DIR$/src/CarrinhoDeCompras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroFisico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegistroDeVendas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RegrasDeDesconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegrasDeDesconto.java" afterDir="false" />
-    </list>
+    <list default="true" id="24b8504b-1b0a-4084-9172-eb794e45f3ab" name="Changes" comment="add ebook" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Livraria---Back" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,7 +36,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/silva/IdeaProjects/Casa Do Codigo"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -104,7 +97,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -118,5 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add ebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ebook" />
   </component>
 </project>
